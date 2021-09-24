@@ -1,0 +1,14 @@
+html {
+  background: #2c3e50;
+  color: #cadcee;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #cadcee;
+}
+
+a:hover {
+  color: #b328cf;
+}
